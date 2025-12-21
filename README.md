@@ -1,0 +1,45 @@
+# 📊 Sales Performance Dashboard (Excel)
+
+This project is a beginner-level Excel data analysis project focused on creating a **Sales Performance Dashboard** using raw sales data.
+
+## 🔍 Project Overview
+The goal of this project is to analyze sales data and present key business insights using Excel features such as pivot tables and charts.
+
+## 🛠 Tools Used
+- Microsoft Excel (Excel for Web)
+- Pivot Tables
+- Charts (Bar, Pie, Line)
+
+## 📈 Dashboard Highlights
+- Total Sales overview
+- Top-selling product
+- Best-performing region
+- Product-wise sales comparison
+- Sales distribution by region
+- Monthly sales trend analysis
+
+## 🧩 Process Followed
+1. Created raw sales dataset
+2. Cleaned and formatted data
+3. Calculated total sales values
+4. Built pivot tables for analysis
+5. Converted pivot tables into charts
+6. Designed a clean and simple dashboard
+
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](Dashboard_Screenshot.png)
+
+## 🎯 Key Learnings
+- Understanding pivot tables for data summarization
+- Creating meaningful charts from data
+- Designing a basic Excel dashboard
+- Transforming raw data into insights
+
+## 🚀 Future Improvements
+- Add slicers for interactivity
+- Improve dashboard design
+- Analyze larger datasets
+
+---
+
+⭐ Feel free to explore the project and share feedback!
