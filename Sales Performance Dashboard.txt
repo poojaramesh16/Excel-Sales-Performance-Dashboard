@@ -27,7 +27,7 @@ The goal of this project is to analyze sales data and present key business insig
 6. Designed a clean and simple dashboard
 
 ## 🖼 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshot.png.png)
 
 ## 🎯 Key Learnings
 - Understanding pivot tables for data summarization
